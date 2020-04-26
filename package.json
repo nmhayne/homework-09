@@ -18,5 +18,6 @@
   "homepage": "https://github.com/nmhayne/homework-09#readme",
   "dependencies": {
     "inquirer": "^7.1.0"
-  }
+  },
+  "devDependencies": {}
 }
